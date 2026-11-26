@@ -130,3 +130,11 @@ fresh rewrite in the reviser's own session, done to satisfy that gate.
 - UTF-8 round-trip — PASS.
 
 NOT committed, pushed, bundled, or submitted — the parent handles that.
+
+## Submission
+
+- Submission: 01a215ef-3a1d-76f0-939f-dc34f74621da
+- Commit: bf79136b239e45f631abe67d7c2ebf059848a49d
+- Repo: https://github.com/lukmannurh/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44
+- Claim code: AF-3CNPG-9072C-NJP6S-W18PJ
+- Submitted: 2026-11-26T03:39:06.953Z (parent pipeline)
